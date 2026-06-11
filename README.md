@@ -2,6 +2,7 @@
 BIKE SALES DASHBOARD
 
 Overview
+
 An interactive Excel dashboard built using a bike buyers dataset to explore customer demographics, purchasing behavior, and sales trends.
 
 Tools Used
